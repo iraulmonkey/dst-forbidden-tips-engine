@@ -29,4 +29,12 @@ STRINGS.FORBIDDEN_LOADINGTIPS = {
     "Terrarium gives light even when inactive and can prevent Charlie attacks if dropped at your feet.",
     "If you stand on the oasis lake when summer starts the oasis lake will not fill up with water, nor activate the sandstorm and Antlion.",
     "Sandstorm, Antlion and Wildfires cannot occur during rain. Wickerbottom's rain book is perfect for summer.",
+    "Ancient guardian stun is based on the duration of the dash (not distance) meaning you can use slowdowns to make the stun longer, ex: Overcoming Arachnophobia"
+    "lightning hitting Above-Average Tree Trunk drops grass and twigs, this can be used by reading the end is nigh"
+    "Slurtle slime can be used to refuel lanterns and miner's helms (restores 45seconds instead of the 90 of a light bulb"
+    "Nitre is a fuel for endothermic fires and flingomatics"
+    "You can kill a werepig just by nonstop attacking him if you started attacking before it howls"
+    "As Maxwell you can shadow prison then shadow sneak rabbit for nightmare fuel, beard hair and monster meat"
+    "Wes can use the speedy ballon as a flare because if it floats in the air it will apper on the map"
+
 }
